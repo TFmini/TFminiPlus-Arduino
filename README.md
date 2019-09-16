@@ -19,7 +19,9 @@ TFmini Plus uses + 5V power supply and can connect 5V and GND of UNO board direc
 ## Programming
 The implementation of this example requires at least two serial ports of Arduino, one is for receiving radar data and the other is for displaying data to the computer. The following code can be copied and pasted into the IDE program editing window.
 
-- [TFmini_PLUS_Setbaud_EN.ino](TFmini_PLUS_Setbaud_EN.ino)
+- [TFmini_PLUS_Setbaud_EN.ino](https://github.com/TFmini/TFminiPlus-Arduino/blob/master/Example-SetCommand/TFmini_PLUS_Setbaud_EN/TFmini_PLUS_Setbaud_EN.ino)
+
+- [TFmini_PLUS_ReadData.ino](https://github.com/TFmini/TFminiPlus-Arduino/blob/master/Example-ReadData/ReadData/ReadData.ino)
 
 ## data review:
 
